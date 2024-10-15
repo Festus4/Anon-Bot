@@ -1,9 +1,9 @@
-//base by DGXeon
+//base by Anon
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @GlobalTechInfo
 //Telegram: https://t.me/GlobalTechInc
 //GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+//WhatsApp: https://whatsapp.com/channel/0029VarYE48Fcow7ghJ8153d
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
 
 require('./settings')
